@@ -3,11 +3,11 @@
     "modid": "divinestory",
     "name": "DivineStory",
     "authors": [
-        "Unknown"
+        "Grechka"
     ],
     "description": "To be added",
     "version": "1.0.0",
     "dependencies": {
-        "game": ""
+        "game": "1.19"
     }
 }

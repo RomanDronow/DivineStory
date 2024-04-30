@@ -1,0 +1,19 @@
+{
+    "code": "teleportpyramid",
+    "class": "ItemTeleportPyramid",
+    "variantgroups": [
+        {
+            "code": "color",
+            "states": [
+                "red",
+                "blue"
+            ]
+        }
+    ],
+    "texturesByType": {
+        "*": {
+            "color": {"base":  "items/teleportpyramid_{color}"}
+        }
+    },
+    "glowLevel": 255
+}
